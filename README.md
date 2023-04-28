@@ -3,12 +3,12 @@
 ### *Project 1: Google Data Analytics Capstone*
 
 This was the final result of my Google Data Analytics certificate, it was my first project where I used R and HTML to create the project.
-The purpose of the study was to analyze 18 spreadsheets of data for a women's health tech company and answer three main questions for stakeholders:
+The purpose of the study was to prepare a report for a women's health tech company and answer three main questions for stakeholders:
 1. What are some trends in smart device usage?
 2. How could these trends apply to Bellabeat customers?
 3. How could these trends help influence Bellabeat marketing strategy?
 
-The exat prompt for the capstone can be found here: [Case-Study-2-_-How-can-a-wellness-technology-company-play-it-smart.pdf](https://github.com/Dudlst01/Portfolio/files/11357009/Case-Study-2-_-How-can-a-wellness-technology-company-play-it-smart.pdf)
+The prompt for the capstone can be found here: [Case-Study-2-_-How-can-a-wellness-technology-company-play-it-smart.pdf](https://github.com/Dudlst01/Portfolio/files/11357009/Case-Study-2-_-How-can-a-wellness-technology-company-play-it-smart.pdf)
 
 A link to the capstone can be found on Kaggle: https://www.kaggle.com/code/stefandudley/google-data-analytics-bellabeat-capstone
 
