@@ -2,8 +2,8 @@
 
 ### *Project 1: Google Data Analytics Capstone*
 
-This was the final for my Google Data Analytics certificate, it was my first project where I used R and HTML to create the Markdown report in RStudio.
-The purpose of the study was to prepare a report for a women's health tech company and answer three main questions for stakeholders:
+This was the final project for my Google Data Analytics certificate. It was my first project where I used R and HTML to create the Markdown report in RStudio.
+The purpose of the project was to prepare a report for a women's health tech company and answer three main questions for stakeholders:
 1. What are some trends in smart device usage?
 2. How could these trends apply to Bellabeat customers?
 3. How could these trends help influence Bellabeat marketing strategy?
