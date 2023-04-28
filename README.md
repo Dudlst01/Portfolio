@@ -1,6 +1,6 @@
 # Portfolio by Stefan Dudley
 
-#### Project 1: Google Data Analytics Capstone
+### *Project 1: Google Data Analytics Capstone*
 
 This was the final result of my Google Data Analytics certificate, it was my first project where I used R and HTML to create the project.
 The purpose of the study was to analyze 18 spreadsheets of data for a women's health tech company and answer three main questions for stakeholders:
@@ -12,7 +12,7 @@ The exat prompt for the capstone can be found here: [Case-Study-2-_-How-can-a-we
 
 A link to the capstone can be found on Kaggle: https://www.kaggle.com/code/stefandudley/google-data-analytics-bellabeat-capstone
 
-#### Project 2: IBM Data Analytics Capstone
+### *Project 2: IBM Data Analytics Capstone*
 
 This was the final result of my IBM Data Analytics capstone, where I was asked to make a dashboard and presentation based on the 2019 Stack Overflow 2019 Community Survey. I was asked to answer three questions:
 1. What are the top programming languages in demand?
