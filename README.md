@@ -2,7 +2,7 @@
 
 ### *Project 1: Google Data Analytics Capstone*
 
-This was the final result of my Google Data Analytics certificate, it was my first project where I used R and HTML to create the project.
+This was the final for my Google Data Analytics certificate, it was my first project where I used R and HTML to create the Markdown report in RStudio.
 The purpose of the study was to prepare a report for a women's health tech company and answer three main questions for stakeholders:
 1. What are some trends in smart device usage?
 2. How could these trends apply to Bellabeat customers?
@@ -22,4 +22,4 @@ I used Excel to prepare and clean the data, used IBM Cognos to create a dashboar
 
 A link to the interactive dashboard can be found here: https://dataplatform.cloud.ibm.com/dashboards/b4310c4d-e667-4596-93c4-043ac2b0126b/view/7b05e92b11ed37d112f0dce4079e2c062f63730ee0bb870382d37b4959667197f03d1ac7c8284259df110030f7b8435ac9
 
-A link to the presentation can be found here:[IBM Data Analysis Capstone.pdf](https://github.com/Dudlst01/Portfolio/files/11357128/IBM.Data.Analysis.Capstone.pdf)
+A link to the presentation can be found here: [IBM Data Analysis Capstone.pdf](https://github.com/Dudlst01/Portfolio/files/11357128/IBM.Data.Analysis.Capstone.pdf)
