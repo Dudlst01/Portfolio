@@ -20,6 +20,4 @@ This was the final result of my IBM Data Analytics capstone, where I was asked t
 3. What are the top IDEs?
 I used Excel to prepare and clean the data, used IBM Cognos to create a dashboard, and then used Microsoft PowerPoint to present the data.
 
-A link to the interactive dashboard can be found here: https://dataplatform.cloud.ibm.com/dashboards/b4310c4d-e667-4596-93c4-043ac2b0126b/view/7b05e92b11ed37d112f0dce4079e2c062f63730ee0bb870382d37b4959667197f03d1ac7c8284259df110030f7b8435ac9
-
 A link to the presentation can be found here: [IBM Data Analysis Capstone.pdf](https://github.com/Dudlst01/Portfolio/files/11357128/IBM.Data.Analysis.Capstone.pdf)
