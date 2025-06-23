@@ -6,6 +6,7 @@ The purpose of this project was to explore the Palmer's Penguins dataset in R. T
 
 What I learned from this project is the importance of data cleaning and how certain statistical tests are not appropriate based on the type of data that you are working with. In addition, I learned about the strengths and limitations of Shiny Dashboards in R.
 
+
 ### *Project 2: Examining Customer Lifetime Value for a Airline Loyalty Program in Python*
 
 The purpose of this project was to examine the performance of a fictional Canadian Airline's loyalty promotional event and adress the following business tasks:
